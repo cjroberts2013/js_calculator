@@ -1,0 +1,19 @@
+{
+  "name": "js_calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devserver": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjroberts2013/js_calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjroberts2013/js_calculator/issues"
+  },
+  "homepage": "https://github.com/cjroberts2013/js_calculator#readme"
+}
